@@ -1,0 +1,9 @@
+C:\Users\Vital\source\repos\RozpoznawanieJezykow\KNN\bin\Debug\KNN.exe.config
+C:\Users\Vital\source\repos\RozpoznawanieJezykow\KNN\bin\Debug\KNN.exe
+C:\Users\Vital\source\repos\RozpoznawanieJezykow\KNN\bin\Debug\KNN.pdb
+C:\Users\Vital\source\repos\RozpoznawanieJezykow\KNN\obj\Debug\KNN.csprojResolveAssemblyReference.cache
+C:\Users\Vital\source\repos\RozpoznawanieJezykow\KNN\obj\Debug\KNN.csproj.CoreCompileInputs.cache
+C:\Users\Vital\source\repos\RozpoznawanieJezykow\KNN\obj\Debug\KNN.exe
+C:\Users\Vital\source\repos\RozpoznawanieJezykow\KNN\obj\Debug\KNN.pdb
+C:\Users\Vital\source\repos\RozpoznawanieJezykow\KNN\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Vital\source\repos\RozpoznawanieJezykow\KNN\bin\Debug\Newtonsoft.Json.xml
